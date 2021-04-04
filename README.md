@@ -4,6 +4,7 @@
 
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) (Python): 中国程序员容易发音错误的单词
 - [ruanyf/weekly](https://github.com/ruanyf/weekly): 科技爱好者周刊，每周五发布
+- [polaris1119/golangweekly](https://github.com/polaris1119/golangweekly): Go语言爱好者周刊，每周日发布
 - [heibaiying/BigData-Notes](https://github.com/heibaiying/BigData-Notes) (Java): 大数据入门指南  :star:
 - [vstinner/unicode_book](https://github.com/vstinner/unicode_book) (Python): Programming with Unicode, book written by Victor Stinner
 - [skywind3000/preserve-cd](https://github.com/skywind3000/preserve-cd): Game Preservation Project

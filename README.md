@@ -50,23 +50,22 @@
 - [karakun/OpenWebStart](https://github.com/karakun/OpenWebStart) (Java): Run Web Start based applications after the release of Java 11
 - [rapidoid/rapidoid](https://github.com/rapidoid/rapidoid) (Java): Rapidoid - Extremely Fast, Simple and Powerful Java Web Framework and HTTP Server!
 
+## Web Frontend
+
+- [desktop/desktop](https://github.com/desktop/desktop) (TypeScript): Simple collaboration from your desktop
+- [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) (TypeScript): 🐉 Material Component Framework for Vue
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) (JavaScript): "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [github/fetch](https://github.com/github/fetch) (JavaScript): A window.fetch JavaScript polyfill.
+
 ## JavaScript
 
 - [Requarks/wiki](https://github.com/Requarks/wiki) (Vue): Wiki.js | A modern and powerful wiki app built on Node.js
-- [acornjs/acorn](https://github.com/acornjs/acorn) (JavaScript): A small, fast, JavaScript-based JavaScript parser
 - [datproject/dat](https://github.com/datproject/dat) (JavaScript): :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
-- [desktop/desktop](https://github.com/desktop/desktop) (TypeScript): Simple collaboration from your desktop
-- [github/fetch](https://github.com/github/fetch) (JavaScript): A window.fetch JavaScript polyfill.
-- [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) (TypeScript): 🐉 Material Component Framework for Vue
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) (JavaScript): "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [panva/jose](https://github.com/panva/jose) (JavaScript): Universal "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK with no dependencies
-- [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) (WebAssembly): Definitely not a TypeScript to WebAssembly compiler 🚀
-- [binux/yaaw](https://github.com/binux/yaaw) (JavaScript): Yet Another Aria2 Webui in pure HTML/CSS/Javascirpt
-- [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) (JavaScript): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
-- [copy/v86](https://github.com/copy/v86) (JavaScript): x86 virtualization in your browser, recompiling x86 to wasm on the fly
-- [txd-team/docsite](https://github.com/txd-team/docsite) (JavaScript): An opensource static website generator
-- [cdr/code-server](https://github.com/cdr/code-server) (TypeScript): VS Code in the browser
-- [yursan9/manis-hugo-theme](https://github.com/yursan9/manis-hugo-theme) (CSS): Sweet little Hugo's theme for personal website
+- fb55
+  - 似乎是很厉害的人
+  - [fb55/htmlparser2](https://github.com/fb55/htmlparser2) (TypeScript): Forgiving HTML and XML parser
+  - [fb55/css-select](https://github.com/fb55/css-select) (TypeScript): a CSS selector compiler & engine
 
 ## Rust
 
@@ -181,6 +180,7 @@
 - [russross/blackfriday](https://github.com/russross/blackfriday) (Go): Blackfriday: a markdown processor for Go
 - [jgm/peg-markdown](https://github.com/jgm/peg-markdown) (C): An implementation of markdown in C, using a PEG grammar
 - [svenstaro/glsl-language-server](https://github.com/svenstaro/glsl-language-server) (C++): Language server implementation for GLSL
+- [acornjs/acorn](https://github.com/acornjs/acorn) (JavaScript): A small, fast, JavaScript-based JavaScript parser
 
 ## Game
 
@@ -190,3 +190,13 @@
 - [PsichiX/Oxygengine](https://github.com/PsichiX/Oxygengine) (Rust): Rust implementation of Oxygen Core HTML5 game engine
 - [pico-8/awesome-PICO-8](https://github.com/pico-8/awesome-PICO-8): A curated list of awesome PICO-8 resources, carts, tools and more
 - [NoelFB/Celeste](https://github.com/NoelFB/Celeste) (C#): Celeste Bugs & Issue Tracker + some Source Code
+
+## Other
+
+- [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) (WebAssembly): Definitely not a TypeScript to WebAssembly compiler 🚀
+- [cdr/code-server](https://github.com/cdr/code-server) (TypeScript): VS Code in the browser
+- [binux/yaaw](https://github.com/binux/yaaw) (JavaScript): Yet Another Aria2 Webui in pure HTML/CSS/Javascirpt
+- [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) (JavaScript): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
+- [copy/v86](https://github.com/copy/v86) (JavaScript): x86 virtualization in your browser, recompiling x86 to wasm on the fly
+- [txd-team/docsite](https://github.com/txd-team/docsite) (JavaScript): An opensource static website generator
+- [yursan9/manis-hugo-theme](https://github.com/yursan9/manis-hugo-theme) (CSS): Sweet little Hugo's theme for personal website

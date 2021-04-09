@@ -59,8 +59,6 @@
 
 ## JavaScript
 
-- [Requarks/wiki](https://github.com/Requarks/wiki) (Vue): Wiki.js | A modern and powerful wiki app built on Node.js
-- [datproject/dat](https://github.com/datproject/dat) (JavaScript): :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
 - [panva/jose](https://github.com/panva/jose) (JavaScript): Universal "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK with no dependencies
 - fb55
   - 似乎是很厉害的人
@@ -191,12 +189,19 @@
 - [pico-8/awesome-PICO-8](https://github.com/pico-8/awesome-PICO-8): A curated list of awesome PICO-8 resources, carts, tools and more
 - [NoelFB/Celeste](https://github.com/NoelFB/Celeste) (C#): Celeste Bugs & Issue Tracker + some Source Code
 
+## Because They Looks Useful
+
+- [Requarks/wiki](https://github.com/Requarks/wiki) (Vue): Wiki.js | A modern and powerful wiki app built on Node.js
+- [datproject/dat](https://github.com/datproject/dat) (JavaScript): :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
+- [binux/yaaw](https://github.com/binux/yaaw) (JavaScript): Yet Another Aria2 Webui in pure HTML/CSS/Javascirpt
+- [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) (JavaScript): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
+- [txd-team/docsite](https://github.com/txd-team/docsite) (JavaScript): An opensource static website generator
+
 ## Other
 
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) (WebAssembly): Definitely not a TypeScript to WebAssembly compiler 🚀
 - [cdr/code-server](https://github.com/cdr/code-server) (TypeScript): VS Code in the browser
-- [binux/yaaw](https://github.com/binux/yaaw) (JavaScript): Yet Another Aria2 Webui in pure HTML/CSS/Javascirpt
-- [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) (JavaScript): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
 - [copy/v86](https://github.com/copy/v86) (JavaScript): x86 virtualization in your browser, recompiling x86 to wasm on the fly
-- [txd-team/docsite](https://github.com/txd-team/docsite) (JavaScript): An opensource static website generator
 - [yursan9/manis-hugo-theme](https://github.com/yursan9/manis-hugo-theme) (CSS): Sweet little Hugo's theme for personal website
+  - Pedro Medeiros在用
+  - https://saint11.org/

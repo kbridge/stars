@@ -28,6 +28,8 @@
 - [uber-go/zap](https://github.com/uber-go/zap) (Go): Blazing fast, structured, leveled logging in Go.
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) (Go): Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [jessevdk/go-assets](https://github.com/jessevdk/go-assets) (Go): Simple embedding of assets in go
+- [coocood/freecache](https://github.com/coocood/freecache) (Go): A cache library for Go with zero GC overhead.
+- [allegro/bigcache](https://github.com/allegro/bigcache) (Go): Efficient cache for gigabytes of data written in Go.
 
 ## Backend
 

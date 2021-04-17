@@ -152,6 +152,8 @@
   - [richgel999/miniz](https://github.com/richgel999/miniz) (C): miniz: Single C source file zlib-replacement library, originally from code.google.com/p/miniz
   - [kuba--/zip](https://github.com/kuba--/zip) (C): A portable, simple zip library written in C
 - Other
+  - [boost-ext/di](https://github.com/boost-ext/di) (C++): DI: C++14 Dependency Injection Library
+  - [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features): A cheatsheet of modern C++ language and library features.
   - [arc80/plywood](https://github.com/arc80/plywood) (C++): The Plywood C++ Framework
   - [libtom/libtomcrypt](https://github.com/libtom/libtomcrypt) (C): LibTomCrypt is a fairly comprehensive, modular and portable cryptographic toolkit that provides developers with a vast array of well known published block ciphers, one-way hash functions, chaining modes, pseudo-random number generators, public key cryptography and a plethora of other routines.
   - [ccache/ccache](https://github.com/ccache/ccache) (C++): ccache – a fast compiler cache
@@ -193,6 +195,8 @@
 
 ## Because They Looks Useful
 
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) (Rust): Materialize simplifies application development with streaming data. Incrementally-updated materialized views - in PostgreSQL and in real time. Materialize is powered by Timely Dataflow.
+- [swc-project/swc](https://github.com/swc-project/swc) (TypeScript): swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 - [Requarks/wiki](https://github.com/Requarks/wiki) (Vue): Wiki.js | A modern and powerful wiki app built on Node.js
 - [datproject/dat](https://github.com/datproject/dat) (JavaScript): :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
 - [binux/yaaw](https://github.com/binux/yaaw) (JavaScript): Yet Another Aria2 Webui in pure HTML/CSS/Javascirpt

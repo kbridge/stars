@@ -152,6 +152,7 @@
   - [richgel999/miniz](https://github.com/richgel999/miniz) (C): miniz: Single C source file zlib-replacement library, originally from code.google.com/p/miniz
   - [kuba--/zip](https://github.com/kuba--/zip) (C): A portable, simple zip library written in C
 - Other
+  - [bombela/backward-cpp](https://github.com/bombela/backward-cpp) (C++): A beautiful stack trace pretty printer for C++
   - [boost-ext/di](https://github.com/boost-ext/di) (C++): DI: C++14 Dependency Injection Library
   - [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features): A cheatsheet of modern C++ language and library features.
   - [arc80/plywood](https://github.com/arc80/plywood) (C++): The Plywood C++ Framework
@@ -177,6 +178,7 @@
 
 ## Compiler
 
+- [boa-dev/boa](https://github.com/boa-dev/boa) (Rust): Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [jerryscript-project/jerryscript](https://github.com/jerryscript-project/jerryscript) (C): Ultra-lightweight JavaScript engine for the Internet of Things.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) (Go): Render markdown on the CLI, with pizzazz! 💅🏻
 - [russross/blackfriday](https://github.com/russross/blackfriday) (Go): Blackfriday: a markdown processor for Go

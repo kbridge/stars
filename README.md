@@ -139,6 +139,12 @@
 
 ## C/C++
 
+- [Martin Sustrik](https://github.com/sustrik)
+  - https://github.com/zeromq/zeromq4-x
+    - [Why should I have written ZeroMQ in C, not C++ (part I)](https://250bpm.com/blog:4/)
+      - 对异常处理的讨论：C++异常是解决了问题还是引入了新问题
+      - ZeroMQ中的C++是没有使用异常的
+  - https://github.com/nanomsg/nanomsg
 - Server
   - [whoshuu/cpr](https://github.com/whoshuu/cpr) (C++): C++ Requests: Curl for People, a spiritual port of Python Requests
   - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) (C++): A C++ header-only HTTP/HTTPS server and client library

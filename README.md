@@ -15,6 +15,7 @@
 
 ## Go
 
+- [mholt/archiver](https://github.com/mholt/archiver) (Go): Easily create & extract archives, and compress & decompress files of various formats
 - [go-chi/chi](https://github.com/go-chi/chi) (Go): lightweight, idiomatic and composable router for building Go HTTP services
 - [kr/pretty](https://github.com/kr/pretty) (Go): Pretty printing for Go values
 - [gorilla/mux](https://github.com/gorilla/mux) (Go): A powerful HTTP router and URL matcher for building Go web servers with 🦍
